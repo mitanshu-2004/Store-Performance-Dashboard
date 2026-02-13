@@ -1,7 +1,5 @@
 # Store Performance Report
 
-## What it is
-
 This project looks at how well stores are doing. It uses a number called "Attach Percentage" to measure this. The project uses data from an Excel file to see patterns, guess future performance, and make charts and reports. The main idea is to use data to understand and help improve how stores are doing.
 
 The report does these things:
@@ -16,13 +14,7 @@ The report does these things:
 *   **Groups Stores:** Puts stores into groups based on how well they are doing using K-Means.
 *   **Ranks Stores:** Makes a list of stores from best to worst based on their average "Attach Percentage."
 
-## Tools Used
 
-*   **Python:** The main programming language used.
-*   **Pandas:** To work with the data.
-*   **Scikit-learn:** To help get the data ready for the model.
-*   **XGBoost:** To make the model that guesses future performance.
-*   **Matplotlib & Seaborn:** To make the charts.
 
 ## Project Files
 
