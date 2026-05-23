@@ -10,12 +10,12 @@ The source workbook is proprietary client data and isn't in the repo, so the scr
 |---|---|
 | `run_dashboard.py` | Runs everything below in order. |
 | `modules/load_data.py` | Reads the Excel sheet, reshapes to long format. |
-| `modules/train_model.py` | XGBoost regressor with 20% holdout. Prints RMSE — not hard-coded as a claim in this README, so the number you see is the number the run produced. |
-| `modules/segmentation.py` | K-Means with `k=4` on `(mean_attach_pct, std_attach_pct)`. Labels are descriptive (performance × stability), not causal. |
+| `modules/train_model.py` | XGBoost regressor with a 20% holdout. RMSE is printed at the end of the run. |
+| `modules/segmentation.py` | K-Means with `k=4` on `(mean_attach_pct, std_attach_pct)` — a performance-by-stability tag per store. |
 | `modules/rankings.py` | Sorts stores by mean attach (163 rows). |
 | `modules/boxplot.py · distribution.py · monthly_trend.py · branch_trend.py · heatmap.py` | The five charts. |
 
-Five months of data per store is thin — two lag features keep XGBoost from over-fitting, but anything fancier (LSTM, Prophet) would be silly at this length. If the data grows, the obvious next steps are price/promotion/headcount covariates and reporting MAPE alongside RMSE so the error scales with each store's baseline volume.
+Two lag features fit the five-month window; longer-horizon models (LSTM, Prophet) would over-fit at this length.
 
 ## Run
 
