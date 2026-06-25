@@ -1,0 +1,164 @@
+Store_Name,Branch,Jan_Prediction_XGBoost
+Delhi(Janakpuri) Br,Delhi_Ncr,0.19694863
+Haryana(Gurgaon) Br,Delhi_Ncr,0.19849756
+Up(Greater Noida) Br,Delhi_Ncr,0.2642805
+Pune(Bhosari) Br,Pune,0.34225875
+Ahmedabad(Maninagar) Br,Gujarat,0.15396413
+Pune(Nagar Road) Br,Pune,0.44301945
+Pune(Chinchwad) Br,Pune,0.32431412
+Bhiwandi Br,Thane,0.47618765
+Up (Noida Sec.18) Br,Delhi_Ncr,0.18648055
+Pune(Baner) Br,Pune,0.29330274
+Delhi(Hauz Khas),Delhi_Ncr,0.50267315
+Delhi(Rohini) Br,Delhi_Ncr,0.33215967
+Ts(Kondapur),Telangana,0.6199134
+Up(Raj Nagar Dc) Br,Delhi_Ncr,0.39810443
+Pune(Station Rd) Br,Pune,0.19914632
+Panvel Br,Thane,0.16568716
+Opera House Br,Mumbai,0.20537435
+Delhi(Daryaganj),Delhi_Ncr,0.4158372
+Ts(Vivekananda Nagar),Telangana,0.36914107
+Chakala Andheri Br,Mumbai,0.17210756
+Ghodbunder Br,Thane,0.25371894
+Haryana(Mewla M.) Br,Delhi_Ncr,0.6112971
+Virar Br,Thane,0.19739085
+Haryana(New Faridabad),Delhi_Ncr,0.33669782
+Delhi(Patel Nagar) Br,Delhi_Ncr,0.4190757
+Delhi(Roop Nagar),Delhi_Ncr,0.22337344
+Delhi(Rajouri Garden) Br,Delhi_Ncr,0.19849756
+Delhi(Kalkaji) Br,Delhi_Ncr,0.3509774
+Delhi(Karol Bagh) Br,Delhi_Ncr,0.41011345
+Pune(Dange Chowk),Pune,0.5019657
+Delhi(Lajpatnagar) Br,Delhi_Ncr,0.19077553
+Pune(Rahatni) Br,Pune,0.20139231
+Delhi(Dwarka) Br,Delhi_Ncr,0.3380029
+MAHIM(VS Next),Mumbai,0.018374909
+Haryana(Faridabad) Br,Delhi_Ncr,0.23552842
+Delhi(Model Town Iii) Br,Delhi_Ncr,0.38757285
+Ts(Nallakunta),Telangana,0.23127675
+Vasai Br,Thane,0.12673895
+Delhi(Paschim Vihar),Delhi_Ncr,0.33129263
+Dombivli Br,Thane,0.16568716
+Mira Road Br,Thane,0.16107732
+Surat(Ved Road),Gujarat,0.33859095
+Kalyan Br,Thane,0.16568716
+Ahmedabad(Dev Arc) Br,Gujarat,0.21391726
+Ahmedabad(Bopal),Gujarat,0.389883
+Delhi(Vikas Marg) Br,Delhi_Ncr,0.31202358
+Pune(Dhankawadi-Satara Rd),Pune,0.2700028
+Vashi Br,Thane,0.14542024
+Ts(Jubilee Hills),Telangana,0.12454496
+Linking Road Br,Mumbai,0.267561
+Pune(Kothrud) Br,Pune,0.32431412
+Ts(Warangal),Telangana,0.16132833
+Surat(Varachha) Br,Gujarat,0.17665343
+Palghar,Thane,0.32811275
+Andheri Br,Mumbai,0.27259868
+Pune(S Bapat Rd),Pune,0.5168867
+Borivali Br,Mumbai,0.34192547
+Up(Indirapuram) Br,Delhi_Ncr,0.17030858
+Goregaon (W) Br,Mumbai,0.36411375
+Ts(Bhel),Telangana,0.6445489
+Pune(Satara Rd) Br,Pune,0.14121473
+Prabhadevi Br,Mumbai,0.3398751
+Delhi(Defence Enclave-Palam) Br,Delhi_Ncr,0.4797685
+Delhi(Shahdara) Br,Delhi_Ncr,0.24837781
+Pune(Kondhawa),Pune,0.47581458
+Ahmedabad(Odhav) Br,Gujarat,0.38107252
+Ts(Kothapet),Telangana,0.26046735
+Delhi(Mahavir Enclave),Delhi_Ncr,0.3298056
+Pune(Hinjewadi) Br,Pune,0.19183426
+Pune(Hadapsar),Pune,0.4189026
+Pune(Solapur Rd) Br,Pune,0.33358818
+Haryana(Jacobpura) Br,Delhi_Ncr,0.29669535
+Belapur Br,Thane,0.09546043
+Surat(Bhatar),Gujarat,0.15080641
+Santacruz Br,Mumbai,0.5479166
+Bhandup Br,Mumbai,0.19717737
+Delhi(Uttam Nagar) Br,Delhi_Ncr,0.3214669
+Goregaon (E) Br,Mumbai,0.15626605
+Ahmedabad(Ashram Rd) Br,Gujarat,0.1575546
+Ts(Boduppal),Telangana,0.17685425
+Nallasopara Br,Thane,0.20274724
+Delhi(Budh Vihar),Delhi_Ncr,0.43962818
+Ts(Karmanghat),Telangana,0.13377136
+Delhi(Nangloi),Delhi_Ncr,0.2694395
+Ts(Kompally),Telangana,0.22202265
+Currey Road,Thane,0.010974467
+Surat(Mota Varachha),Gujarat,0.20703192
+Chembur Br,Mumbai,0.156029
+Ahmedabad(Krishna Nagar) Br,Gujarat,0.17154196
+Ts(Attapur),Telangana,0.20145911
+Delhi(Pitampura) Br,Delhi_Ncr,0.22112735
+Delhi(Narela),Delhi_Ncr,0.55795866
+Surat(Rander Rd) Br,Gujarat,0.2534167
+Delhi(Nawada),Delhi_Ncr,0.06696547
+Ts(Tolichowki- Aditya Ngr),Telangana,0.2628125
+Ts(Paradise Circle),Telangana,0.16779517
+Ts(Shah Ali Banda),Telangana,0.16025057
+Ahmedabad(Shahi Baug) Br,Gujarat,0.21871246
+Ts(Mehdipatnam),Telangana,0.36664328
+Surat Br,Gujarat,0.1923298
+Ts(Sun City),Telangana,0.19455798
+Gandhinagar(Sargasan),Gujarat,0.15080641
+Ahmedabad(Chandkheda Rd) Br,Gujarat,0.15994912
+Ts(Nagole),Telangana,0.16533644
+Ts(Kukatpally),Telangana,0.30780593
+Delhi(Burari),Delhi_Ncr,0.38323873
+Malad,Mumbai,0.2342659
+Ts(Nacharam),Telangana,0.24721493
+Mumbra(Kausa),Thane,0.14411725
+Surat(Parvat Patiya),Gujarat,0.18062285
+Ts(R C Puram),Telangana,0.13377136
+Ts(Kompally- Golden Plaza),Telangana,0.22086003
+Ghatkopar(Lbs Marg) Br,Mumbai,0.16233164
+Delhi(Durgapuri),Delhi_Ncr,0.22022143
+Ts(Chandrayangutta),Telangana,0.161461
+Haryana(Sec-65 Ext Gurugram),Delhi_Ncr,0.33964637
+Haryana(M G Road) Br,Delhi_Ncr,0.63093674
+Delhi(Saket) Br,Delhi_Ncr,0.104504354
+Kharghar(Patel Heritage),Thane,0.1435034
+Surat(Vip Road-Vesu),Gujarat,0.033619132
+Up(Gaur Chowk),Delhi_Ncr,0.12806831
+Ts(Mailardevpally),Telangana,0.32795578
+Sion Br,Mumbai,0.16867542
+Ts(Hastinapur),Telangana,0.16779517
+DELHI(KRISHNA NAGAR),Delhi_Ncr,0.29068342
+Ghatkopar Br,Mumbai,0.17365134
+Kalyan(Khadakpada),Thane,0.16425112
+Thane Br,Thane,0.12283012
+Ap(Tirupathi-M.R.Pally),Telangana,0.17623031
+Haryana(Dundahera),Delhi_Ncr,0.15889245
+Badlapur,Thane,0.0
+DELHI(ASHOK VIHAR),Delhi_Ncr,0.16784985
+Delhi(Najafgarh),Delhi_Ncr,0.0
+Ts(A.S.Rao Nagar),Telangana,0.13377136
+Ts(Malakpet),Telangana,0.15319344
+Ahmedabad(Vishala) Br,Gujarat,0.15184417
+Ts(Chintalkunta),Telangana,0.17200923
+Ap(Rajahmundry-Jln Road),Telangana,0.16179098
+Ts(Punjagutta),Telangana,0.15288481
+Ap(Vijayawada),Telangana,0.0651792
+Haryana(Palam Vihar Rd),Delhi_Ncr,0.1562587
+Ap(Kakinada),Telangana,0.1858118
+Ts(Wrg-Pochamma Maidan),Telangana,0.16132833
+Mahim Br,Mumbai,0.3004511
+DELHI(ROHINI Sector-16),Delhi_Ncr,0.10891474
+Infiniti Br,Mumbai,0.0042167306
+Pune(Tilak Rd)Br,Pune,0.33379275
+Ts(Madinaguda),Telangana,0.049926665
+Ahmedabad(Rakhial) Br,Gujarat,0.027001474
+Ts(Nagaram),Telangana,0.06566555
+Ts(Hayathnagar),Telangana,0.044999573
+Ulhasnagar Br,Thane,0.02679936
+Ahmedabad(R3Mall) Br,Gujarat,0.07998424
+Boisar Br,Mumbai,0.004364626
+Ap(Vizag),Telangana,0.0
+Ap(Ntr Circle),Telangana,0.026109502
+Vadodara(Kareli Baug),Gujarat,0.17033318
+Vadodara(Alkapuri) Br,Gujarat,0.18866828
+Vadodara(Manjalpur) Br,Gujarat,0.19737563
+Kharghar Br,Thane,0.010974467
+Ap(Tirupathi-Leela Mahal Circle),Telangana,0.026109502
+Ap(Rajamundry),Telangana,0.026109502
+Vadodara(Kothi Road),Gujarat,0.022990892
